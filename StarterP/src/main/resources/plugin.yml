@@ -1,0 +1,14 @@
+name: StarterP
+version: '${project.version}'
+main: me.srb.starterp.StarterP
+api-version: 1.18
+commands:
+  suicide:
+    description: Fast travel do domu
+    usage: /<command>
+    aliases:
+      - sus
+      - filipmode
+  gm:
+    description: Skrót do /gamemode
+    usage: /<command>

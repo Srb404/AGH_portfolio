@@ -1,0 +1,5 @@
+name: RandomDrop_testing
+version: '${project.version}'
+main: me.srb.randomdrop_testing.RandomDrop_testing
+api-version: 1.18
+authors: [ Srb ]
