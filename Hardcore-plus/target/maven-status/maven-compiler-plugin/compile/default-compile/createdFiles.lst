@@ -1,0 +1,17 @@
+me\ziomki\hardcoreplus\Commands\CheckDifficulties.class
+me\ziomki\hardcoreplus\Listeners\FoodLevelDowngrade$Biomy.class
+me\ziomki\hardcoreplus\DifficultiesList.class
+me\ziomki\hardcoreplus\Helpers\ChanceCalculator.class
+me\ziomki\hardcoreplus\Commands\CheckPercentageTest.class
+me\ziomki\hardcoreplus\Listeners\FoodLevelDowngrade.class
+me\ziomki\hardcoreplus\Listeners\DangerousDarkness.class
+me\ziomki\hardcoreplus\Listeners\EpicLightningTarget.class
+me\ziomki\hardcoreplus\Listeners\FastBreakingTools.class
+me\ziomki\hardcoreplus\Listeners\SpawnPoweredCreepers.class
+me\ziomki\hardcoreplus\Events\EssentialsToGUI.class
+me\ziomki\hardcoreplus\Listeners\VeryFastMonsters.class
+me\ziomki\hardcoreplus\Listeners\BrokenLegEvent.class
+me\ziomki\hardcoreplus\Helpers\ActionBarMessage.class
+me\ziomki\hardcoreplus\HardcorePlus.class
+me\ziomki\hardcoreplus\Listeners\DeathEraseItems.class
+me\ziomki\hardcoreplus\Schedulers\DarknessScheduler.class
